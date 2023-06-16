@@ -1,0 +1,4 @@
+#Fri Jun 16 13:17:22 IST 2023
+base.0=/Users/MBP/AndroidStudioProjects/sarthi/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
